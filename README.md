@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Arij 
 
-<!--
-**arij-21/arij-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Final-year Business Intelligence Engineering student at École Polytechnique de Sousse.
 
-Here are some ideas to get you started:
+I'm interested in Business Intelligence, Data Analytics and Data Engineering, and I enjoy working on projects that turn data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Technologies & Tools
+- **Programming:** Python, SQL
+- **Data & BI:** Power BI, Pandas, DAX
+- **Databases:** MySQL, MongoDB, SQLite
+- **Machine Learning:** Scikit-learn, Prophet, K-Means
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+###  Projects
+- Business Intelligence & Data Analytics
+- Data Warehousing & ETL
+- Machine Learning & Predictive Analytics
+
+ Contact: arijabdaoui@gmail.com
