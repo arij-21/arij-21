@@ -2,18 +2,21 @@
 
  Final-year Business Intelligence Engineering student at École Polytechnique de Sousse.
 
-I'm interested in Business Intelligence, Data Analytics and Data Engineering, and I enjoy working on projects that turn data into meaningful insights.
+I'm interested in Business Intelligence, Data Analytics and Data Engineering. I enjoy working on data-driven projects, exploring new technologies and turning data into meaningful insights.
 
-###  Technologies & Tools
+###  Tech Stack
+
 - **Programming:** Python, SQL
-- **Data & BI:** Power BI, Pandas, DAX
+- **BI & Data Analytics:** Power BI, DAX, Pandas
 - **Databases:** MySQL, MongoDB, SQLite
 - **Machine Learning:** Scikit-learn, Prophet, K-Means
 - **Tools:** Git, GitHub, Jupyter Notebook
 
-###  Projects
-- Business Intelligence & Data Analytics
-- Data Warehousing & ETL
-- Machine Learning & Predictive Analytics
+###  Featured Project
 
- Contact: arijabdaoui@gmail.com
+- [PrioMammo](https://github.com/arij-21/PrioMammo) – A Python desktop application for prioritizing mammography appointments using clinical data.
+
+###  Contact
+
+- LinkedIn: [arij-abdaoui](https://linkedin.com/in/arij-abdaoui/)
+- Email: arij.abdaoui@gmail.com
